@@ -1,1 +1,15 @@
-hej
+body{
+height: 100vw;
+width: 100vw;
+background-color: #656364;
+margin: 0;
+
+display: grid;
+grid-template-rows: 50px 25px;
+grid-template-columns: 50px auto auto 50px; 
+}
+
+.header{
+background-color: #444243;
+}
+
