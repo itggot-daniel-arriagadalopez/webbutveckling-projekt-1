@@ -11,5 +11,18 @@ grid-template-columns: 50px auto auto 50px;
 
 .header{
 background-color: #444243;
+grid-column-start: 2;
+grid-column-end: 4;
 }
 
+.forum{
+background-color: #929292;
+grid-row-start: 2;
+grid-column-start: 2;    
+}
+
+.om_oss{
+background-color: #929292;
+grid-row-start: 2;
+grid-column-start: 3;
+}
